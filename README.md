@@ -19,4 +19,3 @@ The objective of this Data Analyst project is to generate a comprehensive annual
 
 **Conclusion:**
 To maximise sales and business growth in 2023, YSL store should target women customers within the age group of 30 to 49 years, residing in Maharashtra, Karnataka and Uttar Pradesh by focusing marketing efforts on platforms such as Amazon, Flipkart and Myntra, YSL store can effectively reach and engage with it's target audience. Strategies like targeted ads, offers and coupons specific to these platform are likely yield positive results.
-![image](https://github.com/RanjoshChoudhary/Excel_Dashboard_YSL_Store/assets/123959331/8c457e56-8814-4064-9e95-84e782ac36de)
